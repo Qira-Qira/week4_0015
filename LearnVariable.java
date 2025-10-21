@@ -9,5 +9,10 @@ public class LearnVariable{
 
         System.out.println("Masukkan umur = ");
         umur = sc.nextInt();
+
+        System.out.println("Masukkan nama = ");
+        nama = sc.nextLine();
+
+        
     }
 }
